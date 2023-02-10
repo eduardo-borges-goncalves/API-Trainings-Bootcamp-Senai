@@ -1,15 +1,13 @@
-# API-Trainings-Bootcamp-Senai
-
-API construída com .net 6 e C# para conclusão do bootcamp fullstack do Senai, do qual participei em 2022. 
+API built with .NET 6 and C# to complete Senai's fullstack bootcamp, which I participated in 2022.
 <br/>
 <br/>
-A API é voltada para uma empresa de treinamentos cadastrar seus cursos e alunos.
-Os cursos são divididos em tópicos e em aulas. 
-A API conta com proteção por meio de autenticação via Token JWT. É necessário fazer login para acessar os principais endpoints. 
+The API is aimed at a training company registering its courses and students.
+Courses are divided into topics and classes.
+The API has protection through authentication via JWT Token. Login is required to access key endpoints.
 <br/>
 <br/>
-O banco de dados foi mapeado por meio das anotações acima das entidades, empregando o conceito code first. Além disso, ele foi versionado através de migrations. 
-Para mapeamento das entidades no banco de dados foi utilizado o Entity Framework. O banco de dados, por sua vez, foi o SQL Server da Microsoft. 
+The database was mapped using annotations above the entities, using the code first concept. Also, it was versioned through migrations.
+For mapping the entities in the database, the Entity Framework was used. The database, in turn, was Microsoft's SQL Server.
 <br/>
 <br/>
-A API também conta com documentação no swagger.
+The API also has documentation in swagger.
